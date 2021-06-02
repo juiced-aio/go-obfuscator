@@ -1,4 +1,4 @@
-module obfuscator.juicedbot.io
+module github.com/juiced-aio/go-obfuscator
 
 go 1.16
 
