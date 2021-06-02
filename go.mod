@@ -1,4 +1,4 @@
-module obfuscator.juicedbot.io/m/v2
+module obfuscator.juicedbot.io
 
 go 1.16
 
